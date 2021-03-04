@@ -10,9 +10,7 @@
 
 ## Vidéo d'introduction
 
-<figure class="video_container">
-  <iframe src="#" frameborder="0" allowfullscreen="true"></iframe>
-</figure>
+TODO
 
 ## Qui suis-je ?
 
