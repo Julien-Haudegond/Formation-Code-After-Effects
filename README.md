@@ -10,7 +10,7 @@
 
 ## Vidéo d'introduction
 
-TODO
+[![Introduction générale](https://img.youtube.com/vi/qIsdT0XU2CY/maxresdefault.jpg)](https://www.youtube.com/watch?v=qIsdT0XU2CY)
 
 ## Qui suis-je ?
 
