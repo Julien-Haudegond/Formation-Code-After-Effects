@@ -21,7 +21,7 @@ Le logiciel Adobe After Effects est un logiciel d'animation, de motion design et
 
 ## Pourquoi ?
 
-À première vue, on peut se demander s'il y a un réel intérêt à utiliser l'éditeur d'expressions. Après tout, ça n'ajoute aucune fonctionnalité supplémentaire au logiciel. Certes, mais ça débloque des fonctionnalités "cachées". Et ces fonctionnalités "cachées" sont extrêmement puissantes. Utiliser les expressions permet d'exploiter le logiciel à son plein potentiel. Et une fois qu'elles sont bien prises en main, elles simplifient et améliorent considérablement le workflow. Voici quelques exemples d'utilisation qui, je l'espère, vous metteront l'eau à la bouche.
+À première vue, on peut se demander s'il y a un réel intérêt à utiliser l'éditeur d'expressions. Après tout, ça n'ajoute aucune fonctionnalité supplémentaire au logiciel. Certes, mais ça débloque des fonctionnalités "cachées". Et ces fonctionnalités "cachées" sont extrêmement puissantes. Utiliser les expressions permet d'exploiter le logiciel à son plein potentiel. Et une fois qu'elles sont bien prises en main, elles simplifient et améliorent considérablement le workflow. Voici quelques exemples d'utilisation qui, je l'espère, vous mettront l'eau à la bouche.
 
 ### Exemples d'utilisation
 
