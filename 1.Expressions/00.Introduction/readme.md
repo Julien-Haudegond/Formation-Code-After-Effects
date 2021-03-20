@@ -21,7 +21,7 @@ Le logiciel Adobe After Effects est un logiciel d'animation, de motion design et
 
 ## Pourquoi ?
 
-A première vue, on peut se demander s'il y a un réel intérêt à utiliser l'éditeur d'expressions. Après tout, ça n'ajoute aucune fonctionnalité supplémentaire au logiciel. Certes, mais ça débloque des fonctionnalités "cachées". Et ces fonctionnalités "cachées" sont extrêmement puissantes. Utiliser les expressions permet d'exploiter le logiciel à son plein potentiel. Et une fois qu'elles sont bien prises en main, elles simplifient et améliorent considérablement le workflow. Voici quelques exemples d'utilisation qui, je l'espère, vous donneront l'eau à la bouche.
+À première vue, on peut se demander s'il y a un réel intérêt à utiliser l'éditeur d'expressions. Après tout, ça n'ajoute aucune fonctionnalité supplémentaire au logiciel. Certes, mais ça débloque des fonctionnalités "cachées". Et ces fonctionnalités "cachées" sont extrêmement puissantes. Utiliser les expressions permet d'exploiter le logiciel à son plein potentiel. Et une fois qu'elles sont bien prises en main, elles simplifient et améliorent considérablement le workflow. Voici quelques exemples d'utilisation qui, je l'espère, vous metteront l'eau à la bouche.
 
 ### Exemples d'utilisation
 
@@ -35,7 +35,7 @@ A première vue, on peut se demander s'il y a un réel intérêt à utiliser l'�
 
 ## ECMAScript : la base des expressions
 
-A l'origine, l'éditeur d'expressions dans After Effects se base sur un langage de script développé par Adobe et qui s'appelle **ExtendScript**. Ce langage est lui-même basé sur la norme ECMAScript 3 (1999). Cela explique la forte ressemblance entre ExtendScript et JavaScript (ancienne génération).
+À l'origine, l'éditeur d'expressions dans After Effects se base sur un langage de script développé par Adobe et qui s'appelle **ExtendScript**. Ce langage est lui-même basé sur la norme ECMAScript 3 (1999). Cela explique la forte ressemblance entre ExtendScript et JavaScript (ancienne génération).
 
 Avec la version CC2019, Adobe a implémenté un nouveau moteur d'expressions, intitulé moteur JavaScript, basé sur la nouvelle norme ECMAScript 2018. Ce moteur est bien plus performant et permet surtout d'écrire des expressions avec du JavaScript dit *moderne*.
 
@@ -50,7 +50,7 @@ Pour mon cas, j'utilise After Effects dans sa version anglophone et je vous cons
 - La plupart des tutoriels et documents que vous trouverez seront en anglais. C'est d'ailleurs pour cela que je fais cette formation : il existe assez peu de ressources en français au sujet de la programmation dans After Effects.
 - La programmation, qu'on le veuille ou non, se fait en anglais. Toute la documentation que vous trouverez sera en anglais, les forums que vous serez à même de consulter seront en anglais, tout est en anglais !
 - Le monde des effets spéciaux, du motion design ou encore de l'animation évolue en anglais. Donc autant prendre en main dès aujourd'hui les outils dans cette langue.
-- Les traductions françaises sont parfois, à mon goût, assez mauvaises :grimacing:
+- Les traductions françaises sont parfois, à mon goût, assez mauvaises. :grimacing:
 
 De plus, si vous utilisez actuellement After Effects en français, il est extrêmement simple de le passer en anglais (et de faire machine arrière à n'importe quel moment si vous le désirez). Voici la procédure pour Windows (je ne sais pas comment cela fonctionne sur MacOS) :
 
@@ -58,10 +58,10 @@ De plus, si vous utilisez actuellement After Effects en français, il est extrê
 Rendez-vous dans votre dossier personnel "Documents" et créez-y un fichier texte vide que vous appelez : ae_force_english.txt
 ```
 
-Et voilà, le tour est joué ! After Effects est désormais en anglais ! (Ne me demandez pas par quelle magie cela fonctionne, je n'en ai pas la moindre idée ahah)
+Et voilà, le tour est joué ! After Effects est désormais en anglais ! (Ne me demandez pas par quelle magie cela fonctionne, je n'en ai pas la moindre idée, ahah)
 
-/!\ Le nom du fichier est bien **ae_force_english** et **.txt** désigne son extension. Pour ma part, j'ai activé l'affichage des extensions de fichiers dans mon explorateur Windows donc il ne peut pas y avoir de malentendus. Cependant, si ce n'est pas le cas chez vous, il ne faudrait pas que le fichier soit finalement défini comme "ae_force_english.txt.txt" ! /!\
+:warning: Le nom du fichier est bien **ae_force_english** et **.txt** désigne son extension. Pour ma part, j'ai activé l'affichage des extensions de fichiers dans mon explorateur Windows donc il ne peut pas y avoir de malentendus. Cependant, si ce n'est pas le cas chez vous, il ne faudrait pas que le fichier soit finalement défini comme "ae_force_english.txt.txt" !
 
 -----
 
-:arrow_forward: Page suivante non disponible pour le moment
+:arrow_forward: Page suivante non disponible pour le moment.
