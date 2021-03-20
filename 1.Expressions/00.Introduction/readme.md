@@ -14,6 +14,7 @@
   - [Exemples d'utilisation](#exemples-dutilisation)
 - [ECMAScript : la base des expressions](#ecmascript--la-base-des-expressions)
 - [In English, please !](#in-english-please-)
+- [Ressources](#ressources)
 
 ## Kezako ?
 
@@ -61,6 +62,12 @@ Rendez-vous dans votre dossier personnel "Documents" et créez-y un fichier text
 Et voilà, le tour est joué ! After Effects est désormais en anglais ! (Ne me demandez pas par quelle magie cela fonctionne, je n'en ai pas la moindre idée, ahah)
 
 :warning: Le nom du fichier est bien **ae_force_english** et **.txt** désigne son extension. Pour ma part, j'ai activé l'affichage des extensions de fichiers dans mon explorateur Windows donc il ne peut pas y avoir de malentendus. Cependant, si ce n'est pas le cas chez vous, il ne faudrait pas que le fichier soit finalement défini comme "ae_force_english.txt.txt" !
+
+## Ressources 
+
+- [Exemples d'expressions](https://helpx.adobe.com/fr/after-effects/user-guide.html/fr/after-effects/using/expression-examples.ug.html)
+- [Principes de base des expressions](https://helpx.adobe.com/fr/after-effects/user-guide.html/fr/after-effects/using/expression-basics.ug.html)
+- [ExtendScript](https://en.wikipedia.org/wiki/ExtendScript)
 
 -----
 
