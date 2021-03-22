@@ -9,12 +9,17 @@
 <!-- omit in toc -->
 ## Sommaire
 
+- [Vidéo](#vidéo)
 - [Kezako ?](#kezako-)
 - [Pourquoi ?](#pourquoi-)
   - [Exemples d'utilisation](#exemples-dutilisation)
 - [ECMAScript : la base des expressions](#ecmascript--la-base-des-expressions)
 - [In English, please !](#in-english-please-)
 - [Ressources](#ressources)
+
+## Vidéo
+
+[![Vidéo](https://img.youtube.com/vi/4l9TOw0K0UE/maxresdefault.jpg)](https://www.youtube.com/watch?v=4l9TOw0K0UE)
 
 ## Kezako ?
 
