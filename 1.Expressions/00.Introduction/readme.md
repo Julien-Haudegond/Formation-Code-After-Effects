@@ -76,4 +76,4 @@ Et voilà, le tour est joué ! After Effects est désormais en anglais ! (Ne me 
 
 -----
 
-:arrow_forward: Page suivante non disponible pour le moment.
+:arrow_forward: [Le JavaScript](https://github.com/Julien-Haudegond/Formation-Code-After-Effects/tree/main/1.Expressions/01.JavaScript)
