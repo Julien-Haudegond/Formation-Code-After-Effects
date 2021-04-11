@@ -357,4 +357,4 @@ Cette page était très fournie en informations et ça fait beaucoup de choses �
 
 :arrow_backward: [Introduction](https://github.com/Julien-Haudegond/Formation-Code-After-Effects/tree/main/1.Expressions/00.Introduction)
 
-:arrow_forward: Page suivante non disponible pour le moment.
+:arrow_forward: [Documentation](https://github.com/Julien-Haudegond/Formation-Code-After-Effects/tree/main/1.Expressions/02.Documentation)
