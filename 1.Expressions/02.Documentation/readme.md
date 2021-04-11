@@ -4,7 +4,7 @@
 <!-- omit in toc -->
 ## Vidéo
 
-[![Vidéo](https://img.youtube.com/vi/#/maxresdefault.jpg)]()
+[![Vidéo](https://img.youtube.com/vi/KeVuMZ4QY44/maxresdefault.jpg)](https://www.youtube.com/watch?v=KeVuMZ4QY44)
 
 <!-- omit in toc -->
 ## Durée
