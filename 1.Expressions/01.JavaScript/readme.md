@@ -2,6 +2,11 @@
 # JavaScript : les deux moteurs d'expressions et les bases du langage
 
 <!-- omit in toc -->
+## Vidéo
+
+[![Vidéo](https://img.youtube.com/vi/aK6OixMn3NQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=aK6OixMn3NQ)
+
+<!-- omit in toc -->
 ## Durée
 
 :watch: 30 minutes.
