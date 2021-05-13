@@ -54,4 +54,4 @@ De nombreuses questions ont trouvé leur réponse sur des forums spécialisés. 
 
 :arrow_backward: [JavaScript](https://github.com/Julien-Haudegond/Formation-Code-After-Effects/tree/main/1.Expressions/01.JavaScript)
 
-:arrow_forward: Page suivante non disponible pour le moment
+:arrow_forward: [Nos premières expressions](https://github.com/Julien-Haudegond/Formation-Code-After-Effects/tree/main/1.Expressions/03.Nos_Premieres_Expressions)
