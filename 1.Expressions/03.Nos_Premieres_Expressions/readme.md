@@ -187,6 +187,6 @@ L'interpolation linéeaire, c'est bien mais parfois, on a besoin de quelque chos
 
 -----
 
-:arrow_backward: Page précédente non disponible pour le moment
+:arrow_backward: [Documentation](https://github.com/Julien-Haudegond/Formation-Code-After-Effects/tree/main/1.Expressions/02.Documentation)
 
 :arrow_forward: Page suivante non disponible pour le moment
