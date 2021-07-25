@@ -161,4 +161,4 @@ Si vous souhaitez aller plus loin avec les expressions, il existe déjà de nomb
 
 :arrow_backward: [Nos Premières Expressions](https://github.com/Julien-Haudegond/Formation-Code-After-Effects/tree/main/1.Expressions/03.Nos_Premieres_Expressions)
 
-:arrow_forward: Page suivante non disponible pour le moment
+:arrow_forward: [Contrôles et Templates](https://github.com/Julien-Haudegond/Formation-Code-After-Effects/tree/main/1.Expressions/05.Controles_Et_Templates)
